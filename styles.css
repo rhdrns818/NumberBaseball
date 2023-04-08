@@ -1,0 +1,69 @@
+.digit_button {
+  margin-left: 50px;
+}
+
+.digit {
+  margin-top: 50px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: white;
+  border: 4px solid gray;
+  color: gray;
+  cursor: pointer;
+}
+
+.digit:hover {
+  border-color: pink;
+  color: pink;
+}
+
+.input_button {
+  margin: 40px 0 0 50px;
+}
+
+.digit_input {
+  height: 30px;
+  width: 100px;
+}
+
+.button {
+  margin-left: 5px;
+  height: 30px;
+  font-weight: bold;
+}
+
+table {
+  margin: 30px;
+  height: 300px;
+  width: 500px;
+  font-size: 20px;
+}
+
+th {
+  height: 50px;
+  border: 1px solid gray;
+  margin: 0;
+}
+
+td {
+  border: 1px solid gray;
+  text-align: center;
+}
+
+.order {
+  width: 80px;
+}
+
+.number {
+  width: 150px;
+}
+
+.bg_gray{
+  background-color: rgb(110, 110, 110);
+  color: white;
+  
+}
+
+.bg_wgray{
+  background-color: rgb(218, 218, 218); 
+}
